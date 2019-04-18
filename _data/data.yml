@@ -26,7 +26,13 @@ sidebar:
       - item: household finance
         link:
 
-      - item: healthcare
+      - item: healthcare finance
+        link:
+        
+      - item: liquidity constraints
+        link:
+        
+      - item: inequality
         link:
 
 career-profile:
@@ -76,6 +82,28 @@ publications:
 Accumulator Industry
         authors: Sümeyye Yıldız
         conference: "MA Thesis, Boğaziçi University"
+
+experiences:
+    - role: Teaching Assistantships
+      time: 2014 - Present
+      company: University of California, Santa Barbara
+      details: |
+
+        - PSTAT 109 Statistics for Economics (Winter’15)
+        - ECON 2 Principles of Economics – Macro (Winter’16, Spring’16)
+        - ECON 101 Intermediate Macroeconomic Theory (Fall ‘15-16, Spring’17, Summer’17-18, Spring'19)
+        - ECON 140A Introduction to Econometrics I (Fall’17, Winter’18, Spring’18)
+        - ECON 140B Introduction to Econometrics II (Winter’17)
+        - ECON 180 International Trade (Fall’18)
+        - ECON 181 International Finance (Winter’19)
+
+
+    - role: Research Assistantships
+      company: Boğaziçi University
+      details: |
+      
+        - Research Assistant to Prof. Ahmet Faruk Aysan (Boğaziçi University and CBRT) (2013-2014)
+        - Research Assistant to Prof. Ayşe Mumcu and Prof. Fikret Adaman (Boğaziçi University) (2010-2011)
 
 
 skills:
