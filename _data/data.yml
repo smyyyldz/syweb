@@ -19,7 +19,7 @@ sidebar:
 
 
 
-    research interests:
+    interests:
       - item: macroeconomics
         link:
 
@@ -33,6 +33,9 @@ sidebar:
         link:
         
       - item: inequality
+        link:
+        
+      - item: behavioral macro
         link:
 
 career-profile:
