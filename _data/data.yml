@@ -42,7 +42,7 @@ career-profile:
 
 
 education:
-    - degree: PhD Economics
+    - degree: PhD in Economics
       university: University of California, Santa Barbara
       time: 2014 - present
 
@@ -78,10 +78,10 @@ publications:
 
 
     papers:
-
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Welfare Implications of Competition in a Vertical Market Structure A Case of Accumulator Industry
+        authors: Sumeyye Yildiz
+        conference: M.A. Thesis, Boğaziçi University
+        
 
 experiences:
     - role: Teaching Assistantships
