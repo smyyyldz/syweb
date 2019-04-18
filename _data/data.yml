@@ -64,12 +64,7 @@ research:
     assignments:
       - title: Liquidity Constraints in Healthcare Financing
         link: "#hook"
-        tagline: "Income elasticity of health-care consumption varies significantly
-        between asset poor and rich families, and more than the elasticity of non-health consumption,
-        in particular of food consumption, among wealth quintiles. 
-        For liquidity constrained households, bad health crowds out to non-health consumption
-        and restrains consumption smoothing ability of optimizing households."
-
+        tagline: "Income elasticity of health-care consumption varies significantly between asset poor and rich families, and more than the elasticity of non-health consumption, in particular of food consumption, among wealth quintiles."
 
 
 publications:
@@ -79,7 +74,7 @@ publications:
 
     papers:
       - title: Welfare Implications of Competition in a Vertical Market Structure A Case of Accumulator Industry
-        authors: Sumeyye Yildiz
+        authors: Sümeyye Yıldız
         conference: M.A. Thesis, Boğaziçi University
         
 
