@@ -269,5 +269,17 @@ p {
     .fa-star {
         color: $star;
     }
+    
+    .header {
+    padding-top: 30px;
+    .copyright {
+        line-height: 1.6;
+        color: $text-color-secondary;
+        font-size: 13px;
+    }
+
+    .fa-star {
+        color: $star;
+    }
 
 }
