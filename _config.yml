@@ -2,8 +2,8 @@
 
 # Site Settings
 title: Sumeyye's page
-url: 'https://smyyyldz.github.io'
-baseurl: '/sumeyyeyildiz' #change it according to your repository name
+url: 'https://sumeyyeyildiz.com'
+baseurl: '/smyyyldz.github.io' #change it according to your repository name
 description: personal webpage of Sümeyye Yıldız
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: burgundy # blue turquoise green berry orange ceramic burgundy
