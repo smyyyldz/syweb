@@ -15,7 +15,7 @@ sidebar:
     email: sumeyyeyildiz@ucsb.edu
     website: sumeyyeyildiz.com #do not add http://
     
-    github: smyyyldz
+    # github: smyyyldz
 
 
 
@@ -108,7 +108,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Matlab
+      - name: xyz & xyz
         level: 80%
-      - name: Stata
+      - name: xyz
         level: 80%
