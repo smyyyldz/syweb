@@ -6,7 +6,7 @@ url: 'https://sumeyyeyildiz.com'
 baseurl: '/sumeyyeyildiz' #change it according to your repository name
 description: personal webpage of Sümeyye Yıldız
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: darkred # blue turquoise green berry orange ceramic burgundy darkred
+theme_skin: burgundy # blue turquoise green berry orange ceramic burgundy darkred
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
