@@ -41,7 +41,6 @@ sidebar:
 career-profile:
     title: About
     summary: |
-                                MASTER BRANCH
       I'm a PhD candidate in the Department of Economics at University of California, Santa Barbara.
 
 
@@ -109,7 +108,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: xyz & xyz
+      - name: xyz & xyz 
         level: 80%
-      - name: xyz
+      - name: zzzzzzzzzzzzzzz
         level: 80%
