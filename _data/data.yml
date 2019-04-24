@@ -110,5 +110,5 @@ skills:
     toolset:
       - name: abc & def
         level: 90%
-      - name: abc
-        level: 90%
+      - name: ggg
+        level: 60%
