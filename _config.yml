@@ -3,7 +3,7 @@
 # Site Settings
 title: Sumeyye's page
 url: 'https://sumeyyeyildiz.com'
-baseurl:  #change it according to your repository name
+baseurl:  #change it according to your repository name  #custom domain kullaniyorsan bos birak
 description: personal webpage of Sümeyye Yıldız
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: burgundy # blue turquoise green berry orange ceramic burgundy darkred
