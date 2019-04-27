@@ -1,6 +1,6 @@
 /* ======= Base ======= */
 body {
-    font-family: 'Palatino', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: $text-color-secondary;
     background: $smoky-white;
     font-size: 14px;
@@ -55,8 +55,9 @@ p {
         color: #fff;
     }
     .name {
+        font-family: 'Palatino', sans-serif;
         font-size: 32px;
-        font-weight: 700;
+        font-weight: 800;
         margin-top: 0;
         margin-bottom: 10px;
     }
