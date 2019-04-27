@@ -66,7 +66,7 @@ projects:
 
     assignments:
       - title: Liquidity Constraints in Healthcare Financing
-        link: "https://github.com/smyyyldz/sumeyyeyildiz/blob/master/elasticity4.pdf"
+        link: "{{ site.baseurl }}/pdfs/elasticity4.pdf"
         tagline: "Income elasticity of health-care consumption varies significantly between asset poor and rich families, and more than the elasticity of non-health consumption, in particular of food consumption, among wealth quintiles."
 
 
