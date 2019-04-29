@@ -110,8 +110,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: abc  &  xyz
-        level: 88%
-      - name: zzzzzzzzz
-        level: 98%
+      - name: abc  &  def
+        level: 80%
+      - name: xyz
+        level: 80%
 
