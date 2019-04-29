@@ -72,6 +72,10 @@ projects:
       - title: Healthcare and Household Default
         link: "#"
         tagline:
+        
+      - title: something important
+        link: "#"
+        tagline:
 
 publications:
     title: Publications
