@@ -78,9 +78,7 @@ projects:
         link: "#"
         tagline:
         
-      - title: something important
-        link: "#"
-        tagline:
+
 
 publications:
     title: Publications
