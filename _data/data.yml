@@ -68,7 +68,8 @@ projects:
     assignments:
       - title: Liquidity Constraints in Healthcare Financing
         link: "#hook"
-        tagline: "Income elasticity of healthcare spending varies significantly between asset poor and rich families, and more than the elasticity of non-health consumption, in particular of food consumption, among wealth quintiles."
+        tagline: "Income elasticity of healthcare spending varies significantly between asset poor and rich families, 
+        and more than the elasticity of non-health consumption, in particular of food consumption, among wealth quintiles."
 
       - title: Healthcare and Household Default
         link: "#"
