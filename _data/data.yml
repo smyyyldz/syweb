@@ -72,6 +72,8 @@ projects:
         tagline: "Income elasticity of healthcare spending varies significantly between asset poor and rich families, 
         and more than the elasticity of non-health consumption, in particular of food consumption, among wealth quintiles."
 
+
+
       - title: Healthcare and Household Default
         link: "#"
         tagline:
@@ -113,13 +115,4 @@ experiences:
       
         - Research Assistant to Prof. Ahmet Faruk Aysan (Boğaziçi University and CBRT) (2013-2014)
         - Research Assistant to Prof. Ayşe Mumcu and Prof. Fikret Adaman (Boğaziçi University) (2010-2011)
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: abc  &  def
-        level: 80%
-      - name: xyz
-        level: 80%
 
