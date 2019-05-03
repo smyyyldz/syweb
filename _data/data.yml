@@ -75,7 +75,7 @@ projects:
 
 
       - title: Healthcare and Household Default
-        link: "sumeyyeyildiz.com/pdfs/elasticity4.pdf"
+        link: "{{ site.url }}/pdfs/elasticity4.pdf"
         tagline:
         
 
