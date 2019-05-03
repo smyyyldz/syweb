@@ -46,7 +46,7 @@ career-profile:
       
       My primary research interests are in the fields **macroeconomics**, **household finance**, **healthcare** and **behavioral economics**.
 
-
+ CV [deneme] ({{ site.url }}/pdfs/elasticity4.pdf)
 education:
     - degree: PhD in Economics
       university: University of California, Santa Barbara
@@ -76,7 +76,7 @@ projects:
 
 
       - title: Healthcare and Household Default
-        link:
+        link:"{{ site.url }}/pdfs/elasticity4.pdf"
         tagline:
         
 
