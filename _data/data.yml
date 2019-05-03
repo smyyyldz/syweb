@@ -75,7 +75,7 @@ projects:
 
 
       - title: Healthcare and Household Default
-        link: "{{ site.url }}/pdfs/elasticity4.pdf"
+        link: "#pdfs/elasticity4.pdf"
         tagline:
         
 
