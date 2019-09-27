@@ -70,18 +70,31 @@ projects:
     assignments:
       - title: Liquidity Constraints in Healthcare Expenditure
         link: "#hook"
-        tagline: "Income elasticity of healthcare spending varies significantly between asset poor and rich families, 
-        and more than the elasticity of non-health consumption, in particular of food consumption, among wealth quintiles."
+        tagline: "Liquidity constraints restrain consumption smoothing ability of optimizing households.
+        This paper evaluates the heterogeneous impact of liquidity constraints on healthcare spending decisions
+        and compares it with non-health consumption  in particular with food consumption.
+        I show that households deviate from unconstrained level of optimal healthcare spending by the binding liquidity constraints
+        in the current period as well as expected binding constraints one period ahead. In a linearized Euler equation current
+        binding constraints causes negative bias on income which is predicted to have no impact on consumption growth
+        by permanent income hypothesis, whereas expected binding constraints leads to a positive bias.
+        In the test, the resulting bias depends on which effect is stronger. Moreover, income elasticity of health-care consumption
+        varies significantly between asset poor and rich families, and more than the elasticity of non-health consumption,
+        in particular of food consumption, among wealth quintiles, a finding that is supportive of heterogeneous impact of the binding liquidity constraints. "
 
-
+      - title: History-Dependent Present Bias
+        link: "#"
+        tagline:"Liquidity constraints and present-biased preferences are considered as alternative explanations for the non-optimal household decisions
+        especially among the poor households. I propose a model where present bias arises endogenously.
+        Time inconsistency arises due to a lasting effect of binding constraints onto the preferences
+        which alter the optimal decision more than one period even for nondurable goods.
+        The model serves as a micro foundation for the hyperbolic discounting for the ever-constrained households.
+        The bias term is updated slowly based on the credit history which results in heterogeneity in the degree of present-bias."
 
       - title: Search Goods and Portfolio Allocation
         link: "#"
         tagline:
         
-      - title: History-Dependent Present Bias
-        link: "#"
-        tagline:
+
         
 
 
