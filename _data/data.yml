@@ -91,7 +91,7 @@ projects:
         The model serves as a micro foundation for the quasi-hyperbolic discounting for the ever-constrained households.
         The bias factor is updated slowly based on the credit history which results in heterogeneity in the degree of present bias among households."
 
-      - title: Healthcare Investment under Time Inconsistency
+      - title: Health Investment under Time Inconsistency
       
       - title: Search Goods and Portfolio Allocation
       
