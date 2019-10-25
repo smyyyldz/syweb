@@ -47,6 +47,7 @@ career-profile:
       
       My primary research interests are in the fields **macroeconomics**, **household finance**, **healthcare** and **behavioral macroeconomics**.
 
+      Please find more on my [CV](https://sumeyyeyildiz.com/pdfs/sumeyye_CV.pdf)
 
 education:
     - degree: PhD in Economics
@@ -70,7 +71,7 @@ projects:
 
     assignments:
       - title: Liquidity Constraints in Healthcare Expenditure
-        link: "#hook"
+        link: "https://sumeyyeyildiz.com/pdfs/sumeyye_jmp.pdf"
         tagline: "Liquidity constraints restrain consumption smoothing ability of optimizing households.
         This paper evaluates the heterogeneous impact of liquidity constraints on healthcare spending decisions
         and compares it with non-health consumption  in particular with food consumption.
@@ -83,7 +84,7 @@ projects:
         in particular of food consumption, among wealth quintiles, a finding that is supportive of heterogeneous impact of the binding liquidity constraints. "
 
       - title: History-Dependent Present Bias
-        link: "#"
+        link: "#hook"
         tagline: "Liquidity constraints and present-biased preferences are considered as alternative explanations for the non-optimal household decisions
         especially among the poor. I propose a model where present bias arises endogenously.
         Time inconsistency arises due to a lasting effect of binding constraints onto the preferences
