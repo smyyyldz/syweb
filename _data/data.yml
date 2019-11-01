@@ -72,17 +72,19 @@ projects:
     assignments:
       - title: Liquidity Constraints in Healthcare Expenditure
         link: "https://sumeyyeyildiz.com/pdfs/sumeyye_jmp.pdf"
-        tagline: "Liquidity constraints restrain consumption smoothing ability of optimizing households.
-        This paper evaluates the heterogeneous impact of liquidity constraints on healthcare spending decisions
-        and compares it with non-health consumption  in particular with food consumption.
-        I show that households deviate from unconstrained level of optimal healthcare spending by the binding liquidity constraints
-        in the current period as well as expected binding constraints one period ahead. In a linearized Euler equation current
-        binding constraints causes negative bias on income which is predicted to have no impact on consumption growth
-        by permanent income hypothesis, whereas expected binding constraints leads to a positive bias.
-        In the test, the resulting bias depends on which effect is stronger. Moreover, income elasticity of health-care consumption
-        varies significantly between asset poor and rich families, and more than the elasticity of non-health consumption,
-        in particular of food consumption, among wealth quintiles, a finding that is supportive of heterogeneous impact of the binding liquidity constraints. "
-
+        tagline: "Increasing healthcare costs are a big concern for the wellbeing of liquidity constrained households. 
+        This paper evaluates the effect of binding liquidity constraints on healthcare spending decisions. 
+        Further, the paper compares the effect on healthcare expenditure with the effect on the non-health consumption in particular with food consumption. 
+        I extend a standard incomplete markets model with a health capital in the felicity function.  
+        I use extended model in order to test the incidence of binding liquidity constraints with a linearized Euler equation. 
+        Theoretically, I show that households reduce their expenditure compared to an unconstrained level of optimal healthcare spending
+        by the binding liquidity constraints in the current period as well as expected binding constraints one period ahead. 
+        Empirically, I show that the test for healthcare expenditure has different implications than a standard test for nondurable consumption. 
+        In particular, current binding constraints and expected binding constraints lead to opposite direction of bias when the liquidity constraints are omitted. 
+        The resulting bias depends on which constraint has a stronger effect. Moreover, the income elasticity of healthcare expenditure varies significantly
+        between asset poor and rich families, more than the elasticity of non-health consumption among wealth quintiles. 
+        Altogether, my findings show that the effects of liquidity constraints are heterogeneous across households and across consumption categories."
+        
       - title: History-Dependent Present Bias
         link: "#hook"
         tagline: "Liquidity constraints and present-biased preferences are considered as alternative explanations for the non-optimal household decisions
