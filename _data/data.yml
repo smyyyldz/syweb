@@ -72,7 +72,8 @@ projects:
     assignments:
       - title: Liquidity Constraints in Healthcare Expenditure [JMP]
         link: "https://sumeyyeyildiz.com/pdfs/sumeyye_jmp.pdf"
-        tagline: "<p> Increasing healthcare costs are a big concern for the wellbeing of liquidity-constrained households.
+        tagline: "<h2>text-align-last: justify;</h2>
+        <p> Increasing healthcare costs are a big concern for the wellbeing of liquidity-constrained households.
         This paper evaluates the effect of binding liquidity constraints on healthcare spending decisions.
         Further, the paper compares the effect on healthcare expenditure with the effect on the non-health consumption
         in particular with food consumption. I extend a standard incomplete markets model with a health capital in the felicity function. 
