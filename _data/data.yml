@@ -143,10 +143,10 @@ experiences:
         - ECON 135  Monetary Economics (Winter’20)
 
 
-     - role: Research Assistant
-       company: Boğaziçi University
-       details: |
+    # - role: Research Assistant
+     #  company: Boğaziçi University
+     #  details: |
       
-        - Research Assistant to Prof. Ahmet Faruk Aysan (2013-2014)
-        - Research Assistant to Prof. Ayşe Mumcu and Prof. Fikret Adaman (2010-2011)
+      #  - Research Assistant to Prof. Ahmet Faruk Aysan (2013-2014)
+      #  - Research Assistant to Prof. Ayşe Mumcu and Prof. Fikret Adaman (2010-2011)
 
