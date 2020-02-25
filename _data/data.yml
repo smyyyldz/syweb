@@ -75,9 +75,8 @@ projects:
 
     assignments:
       - title: Liquidity Constraints and Healthcare Expenditure [JMP]
-        link: "https://sumeyyeyildiz.com/pdfs/sumeyye_jmp.pdf"
-        
-        slides: <p> [[slides]]
+        link: "https://sumeyyeyildiz.com/pdfs/sumeyye_jmp.pdf"  
+        slides: <p> [slides]
         slideslink: "https://sumeyyeyildiz.com/pdfs/sumeyye_health_liquidity_slides.pdf"
         tagline: "<p> Increasing healthcare costs are a big concern for the wellbeing of liquidity-constrained households. 
         This paper evaluates the effect of binding liquidity constraints on healthcare spending decisions. Further, 
