@@ -76,9 +76,9 @@ projects:
     assignments:
       - title: Liquidity Constraints and Healthcare Expenditure [JMP]
         link: "https://sumeyyeyildiz.com/pdfs/sumeyye_jmp.pdf"  
-        slides: <p> [slides] <u kdjsn >
+        slides: <p> [slides]
         slideslink: "https://sumeyyeyildiz.com/pdfs/sumeyye_health_liquidity_slides.pdf"
-        ssrn: [ [SSRN] ]
+        ssrn: "[SSRN]"
         ssrnlink: "http://ssrn.com/abstract=3550882"        
        
         tagline: "<p> Increasing healthcare costs are a big concern for the wellbeing of liquidity-constrained households. 
