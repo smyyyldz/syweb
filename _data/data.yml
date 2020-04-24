@@ -78,7 +78,7 @@ projects:
         link: "https://sumeyyeyildiz.com/pdfs/sumeyye_jmp.pdf"  
         slides: <p> [slides]
         slideslink: "https://sumeyyeyildiz.com/pdfs/sumeyye_health_liquidity_slides.pdf"
-        ssrn: "[SSRN]"
+        ssrn: "<u>[SSRN]"
         ssrnlink: "http://ssrn.com/abstract=3550882"        
        
         tagline: "<p> Increasing healthcare costs are a big concern for the wellbeing of liquidity-constrained households. 
