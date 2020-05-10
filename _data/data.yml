@@ -106,6 +106,17 @@ projects:
         The model serves as a micro foundation for the quasi-hyperbolic discounting for the ever-constrained households.
         The bias factor is updated slowly based on the credit history which results in heterogeneity in the degree of present bias among households."
 
+      - title: Local Shocks and Consumption Elasticities
+        link: "#hook"
+        tagline: "<p> Estimating income elasticity of consumption is found to be a challenging task. 
+        The causal impact of income changes on expenditure is hard to measure due to endogeneity of income and consumption. 
+        I use a a shift-share instrumental variable design a la Bartik (1991) to mitigate the endonegeity concerns by exploiting local labor market shocks. 
+        I estimate the income elasticity of consumption that occurs due to the changes in national employment growth in industries weighted with regional employment share of the industry. 
+        I find an average elasticity of total household consumption in the ranges of 0.4 to 0.53 depending on the construction of the instrument. Food consumption elasticity ranges between 0.11 to 0.2 though not significantly estimated. 
+        Of particular interest for income elasticity estimates is the household out-of-pocket healthcare expenditure which has an elasticity around 3.14 to 3.59. 
+        This finding adds to the discussion of health spending being a luxury good with an elasticity above one which is found in aggregate cross-county or time-series estimates. 
+        I find elasticities above one using household level micro consumption and regional employment growth data whereas micro estimates usually conclude elasticities around zero."
+        
       - title: Testing Liquidity Constraints for Durable Consumption
       
       - title: Health Investment under Time Inconsistency
