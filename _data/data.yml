@@ -111,12 +111,12 @@ projects:
         tagline: "<p> Estimating income elasticity of consumption is found to be a challenging task. 
         The causal impact of income changes on expenditure is hard to measure due to endogeneity of income and consumption. 
         I use a shift-share instrumental variable design a la Bartik (1991) to mitigate the endonegeity concerns by exploiting variation 
-        due to local labor market shocks. I estimate the income elasticity of consumption that occurs due to 
+        due to local labor market shocks. I estimate the income elasticity of consumption that results from  
         the changes in national employment growth in industries weighted with regional employment share of the industry. 
         I find an average elasticity of total household consumption in the ranges of 0.4 to 0.53 depending on the construction of the instrument. 
         Food consumption elasticity ranges between 0.11 to 0.2 though is not significantly estimated. 
         Of particular interest for income elasticity estimates is the household out-of-pocket healthcare expenditure which has an elasticity around 3.14 to 3.59. 
-        This finding adds to the discussion of health spending being a luxury good with an elasticity above one which is found in aggregate cross-county or time-series estimates. 
+        This finding adds to the discussion of health spending being a luxury good with an elasticity above one which is found in aggregate cross-country or time-series estimates. 
         I find elasticities above one using household level micro consumption and regional employment growth data whereas micro studies usually conclude elasticities around zero."
         
       - title: Testing Liquidity Constraints for Durable Consumption
