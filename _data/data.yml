@@ -109,7 +109,7 @@ projects:
       - title: Local Shocks and Consumption Elasticities
         link: "#hook"
         tagline: "<p> Estimating income elasticity of consumption is found to be a challenging task. 
-        The causal impact of income changes on expenditure is hard to measure due to endogeneity of income and consumption. 
+        The causal impact of income changes on expenditure is hard to measure due to endogeneity of income. 
         I use a shift-share instrumental variable design a la Bartik (1991) to mitigate the endonegeity concerns by exploiting variation 
         due to local labor market shocks. I estimate the income elasticity of consumption that results from  
         the changes in national employment growth in industries weighted with regional employment share of the industry. 
