@@ -110,7 +110,7 @@ projects:
         link: "#hook"
         tagline: "<p> Estimating income elasticity of consumption is found to be a challenging task. 
         The causal impact of income changes on expenditure is hard to measure due to endogeneity of the treatment variable income. 
-        I use a shift-share instrumental variable design a la Bartik (1991) to mitigate the endonegeity concerns by exploiting variation 
+        I use a shift-share instrumental variable design a la Bartik (1991) to mitigate the endogeneity concerns by exploiting variation 
         due to local labor market exposure to aggregate shocks. I estimate the income elasticity of consumption that results from  
         the changes in national employment growth in industries weighted with regional employment share of the industry. 
         I find an average elasticity of total household consumption in the ranges between 0.4 to 0.53 depending on the construction of the instrument. 
