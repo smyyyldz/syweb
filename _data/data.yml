@@ -98,7 +98,8 @@ projects:
         across expenditure categories."
         
       - title: Local Shocks and Healthcare Elasticities
-        link: "https://sumeyyeyildiz.com/pdfs/sumeyye_elasticity.pdf" 
+        # link: "https://sumeyyeyildiz.com/pdfs/sumeyye_elasticity.pdf" 
+        link: "#hook"
         tagline: "<p> Estimating income elasticity of consumption is found to be a challenging task. 
         The causal impact of income changes on expenditure is hard to measure due to endogeneity of the treatment variable income. 
         I use a shift-share instrumental variable design a la Bartik (1991) to mitigate the endogeneity concerns by exploiting variation 
@@ -111,7 +112,8 @@ projects:
         I find elasticities above one using household level micro consumption and regional employment growth data whereas micro studies usually conclude health expenditure elasticities around zero."
         
       - title: Wealth and Welfare over the Lifecycle and over the Business Cycle
-        link: "https://sumeyyeyildiz.com/pdfs/sumeyye_portfolio.pdf" 
+        # link: "https://sumeyyeyildiz.com/pdfs/sumeyye_portfolio.pdf" 
+        link: "#hook"
         tagline: "<p>This paper presents several stylized facts on how households allocate wealth among
         asset classes, how portfolio allocation changes over the lifecycle and over the business
         cycle, and how portfolio and income are related. The paper combines various survey data
