@@ -49,7 +49,7 @@ career-profile:
     summary: |
       I'm an Assistant Professor of Economics  at Ankara Yıldırım Beyazıt University. I received my PhD from University of California, Santa Barbara.
       
-      My primary research interests are in the fields **macroeconomics**, **household finance**, **healthcare**, **applied microeconometrics** and **behavioral macroeconomics**.
+      My primary research interests are in the fields **macroeconomics**, **household finance**, **healthcare**, **applied microeconomics** and **behavioral macroeconomics**.
       
       Curriculum Vitae: [**CV**](https://sumeyyeyildiz.com/pdfs/sumeyye_CV.pdf)
 
@@ -106,9 +106,9 @@ projects:
         I use a shift-share instrumental variable design a la Bartik (1991) to mitigate the endogeneity concerns by exploiting variation 
         due to local labor market exposure to aggregate shocks. I estimate the income elasticity of consumption that results from  
         the changes in national employment growth in industries weighted with regional employment share of the industry. 
-        I find an average elasticity of total household consumption in the ranges between 0.4 to 0.53 depending on the construction of the instrument. 
-        Food consumption elasticity ranges between 0.11 to 0.2 though is not significantly estimated. 
-        Of particular interest for income elasticity estimates is the household out-of-pocket healthcare expenditure which has an elasticity around 3.14 to 3.59. 
+        I find an average elasticity of total household consumption in the ranges between 0.34 to 0.67 depending on the construction of the instrument. 
+        Food consumption elasticity ranges between 0.10 to 0.50 though is not always significantly estimated. 
+        Of particular interest for income elasticity estimates is the household out-of-pocket healthcare expenditure which has an elasticity around 1.09 to 2.84. 
         This finding adds to the discussion of health spending being a luxury good with an elasticity above one which is found in aggregate cross-country or time-series estimates. 
         I find elasticities above one using household level micro consumption and regional employment growth data whereas micro studies usually conclude health expenditure elasticities around zero."
         
