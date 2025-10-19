@@ -111,14 +111,14 @@ projects:
         Of particular interest for income elasticity estimates is the household out-of-pocket healthcare expenditure which has an elasticity around 1.09 to 2.84. 
         This finding adds to the discussion of health spending being a luxury good with an elasticity above one which is found in aggregate cross-country or time-series estimates. 
         I find elasticities above one using household level micro consumption and regional employment growth data whereas micro studies usually conclude health expenditure elasticities around zero."
+
+      - title: Consumption-Based Poverty in Türkiye between 2003 and 2022
+        link: "https://www.berjournal.com/wp-content/plugins/downloads-manager/upload/BERJ1612025Article1p.1-20.pdf"
         
       - title: Wealth and Welfare over the Lifecycle and over the Business Cycle
         # link: "https://sumeyyeyildiz.com/pdfs/sumeyye_portfolio.pdf" 
         link: "#hook"
      
-      - title: Consumption-Based Poverty in Türkiye between 2003 and 2022
-        link: "https://www.berjournal.com/wp-content/plugins/downloads-manager/upload/BERJ1612025Article1p.1-20.pdf"
-
       - title: Consumption Insurance of Turkish Households
         link: "#hook"
 
