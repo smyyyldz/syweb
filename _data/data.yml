@@ -125,9 +125,13 @@ projects:
         business cycle, the Great Recession has devastating effects on the welfare of households
         such that both networth and consumption declined, and poverty rates increased. The effect
         is more severe for non-white, low educated and female headed households."
+
+     - title: Consumption-Based Poverty in Türkiye between 2003 and 2022
+        link: "https://www.berjournal.com/wp-content/plugins/downloads-manager/upload/BERJ1612025Article1p.1-20.pdf"
+
       
-      - title: History-Dependent Present Bias
-        link: "#hook"
+     # - title: History-Dependent Present Bias
+     #   link: "#hook"
         # tagline: " <p> Liquidity constraints and present-biased preferences are considered as alternative explanations for the non-optimal household decisions
         # especially among the poor. I propose a model where present bias arises endogenously.
         # Time inconsistency arises due to a lasting effect of binding constraints onto the preferences
@@ -136,9 +140,9 @@ projects:
         # The bias factor is updated slowly based on the credit history which results in heterogeneity in the degree of present bias among households."
 
       
-      - title: Testing Liquidity Constraints for Durable Consumption
+     # - title: Testing Liquidity Constraints for Durable Consumption
       
-      - title: Health Investment under Time Inconsistency
+     # - title: Health Investment under Time Inconsistency
       
       
 publications:
