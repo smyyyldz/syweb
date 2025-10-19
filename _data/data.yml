@@ -128,10 +128,27 @@ projects:
 
      - title: Consumption-Based Poverty in Türkiye between 2003 and 2022
         link: "https://www.berjournal.com/wp-content/plugins/downloads-manager/upload/BERJ1612025Article1p.1-20.pdf"
-        tagline: "<p>This paper seeks to evaluate consumption-based poverty in Türkiye between 2003 and 2022. Using representative household data from the Turkish Statistical Institute’s Household Budget Survey, this study calculates the Foster-Greer-Thorbecke (FGT) poverty indices based on relative poverty thresholds. The results show that poverty rates initially declined rapidly between 2003 and 2008, increased slightly between 2008 and 2012, and then continued to decline between 2012 and 2018. After 2018, poverty rates increased in Türkiye, almost reaching the 2007 level. The analysis also includes the decomposition of poverty changes into growth and redistribution components as well as subgroups. Growth in living standards acted as a poverty-reducing effect and was dominant between 2004-2008 and 2012-2018. The redistribution component was a poverty-increasing factor that was dominant after 2018. These periods coincide with the country’s overall economic performance. In particular, the highest decline in poverty rates occurred during high economic growth between 2003-2008. The surge in inflation post-2019 aligns with the increase in consumption poverty rates in 2022."
+        tagline: "<p>This paper seeks to evaluate consumption-based poverty in Türkiye between 2003 and 2022. 
+        Using representative household data from the Turkish Statistical Institute’s Household Budget Survey, 
+        this study calculates the Foster-Greer-Thorbecke (FGT) poverty indices based on relative poverty thresholds. 
+        The results show that poverty rates initially declined rapidly between 2003 and 2008, increased slightly between 2008 and 2012, 
+        and then continued to decline between 2012 and 2018. After 2018, poverty rates increased in Türkiye, almost reaching the 2007 level. 
+        The analysis also includes the decomposition of poverty changes into growth and redistribution components as well as subgroups. 
+        Growth in living standards acted as a poverty-reducing effect and was dominant between 2004-2008 and 2012-2018. 
+        The redistribution component was a poverty-increasing factor that was dominant after 2018. These periods coincide with the country’s overall economic performance. 
+        In particular, the highest decline in poverty rates occurred during high economic growth between 2003-2008. 
+        The surge in inflation post-2019 aligns with the increase in consumption poverty rates in 2022."
 
      - title: Consumption Insurance of Turkish Households
-        tagline: "<p>Standard lifecycle models predict perfect consumption insurance among rational and forward-looking households over their lives. This prediction is not supported by empirical studies. However, the evidence on the issue in Türkiye is scarce due to data limitations. This study investigates the degree of consumption insurance among Turkish households. The study uses representative household data from the Turkish Statistical Institute‘s Household Budget Survey (HBS) between 2002 and 2022. The study applies a cohort-level analysis based on birth-year and education groups in order to create a panel dataset. Moreover, the study uses several instrumental variable specifications for both levels and differences of income and consumption in order to investigate the degree of consumption insurance across age-education cohorts. The results show that there is no perfect consumption insurance across cohorts of Turkish households. Marginal propensity to consume (MPC) out of current income varies between 0.6 to 0.9 depending on the instrument and the difference in periods for the difference specifications. For level specifications, the MPC is between 0.8 and 0.9. The results are robust to adding alternative controls, such as the number and the value of car purchases. These results are in line with previous studies that use different cohort definitions or different specifications. "
+        tagline: "<p>Standard lifecycle models predict perfect consumption insurance among rational and forward-looking households over their lives. 
+        This prediction is not supported by empirical studies. However, the evidence on the issue in Türkiye is scarce due to data limitations. 
+        This study investigates the degree of consumption insurance among Turkish households. The study uses representative household data from the Turkish Statistical Institute‘s Household Budget Survey (HBS) between 2002 and 2022. 
+        The study applies a cohort-level analysis based on birth-year and education groups in order to create a panel dataset. 
+        Moreover, the study uses several instrumental variable specifications for both levels and differences of income and consumption 
+        in order to investigate the degree of consumption insurance across age-education cohorts. The results show that there is no perfect consumption insurance 
+        across cohorts of Turkish households. Marginal propensity to consume (MPC) out of current income varies between 0.6 to 0.9 depending on the instrument and the difference 
+        in periods for the difference specifications. For level specifications, the MPC is between 0.8 and 0.9. The results are robust to adding alternative controls, such as the number and the value of car purchases. 
+        These results are in line with previous studies that use different cohort definitions or different specifications. "
 
       
      # - title: History-Dependent Present Bias
