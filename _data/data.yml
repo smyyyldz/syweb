@@ -141,15 +141,7 @@ projects:
 
      - title: Consumption Insurance of Turkish Households
         link: "#hook"
-        tagline: "<p>Standard lifecycle models predict perfect consumption insurance among rational and forward-looking households over their lives. 
-        This prediction is not supported by empirical studies. However, the evidence on the issue in Türkiye is scarce due to data limitations. 
-        This study investigates the degree of consumption insurance among Turkish households. The study uses representative household data from the Turkish Statistical Institute‘s Household Budget Survey (HBS) between 2002 and 2022. 
-        The study applies a cohort-level analysis based on birth-year and education groups in order to create a panel dataset. 
-        Moreover, the study uses several instrumental variable specifications for both levels and differences of income and consumption 
-        in order to investigate the degree of consumption insurance across age-education cohorts. The results show that there is no perfect consumption insurance 
-        across cohorts of Turkish households. Marginal propensity to consume (MPC) out of current income varies between 0.6 to 0.9 depending on the instrument and the difference 
-        in periods for the difference specifications. For level specifications, the MPC is between 0.8 and 0.9. The results are robust to adding alternative controls, such as the number and the value of car purchases. 
-        These results are in line with previous studies that use different cohort definitions or different specifications. "
+
 
       
      # - title: History-Dependent Present Bias
